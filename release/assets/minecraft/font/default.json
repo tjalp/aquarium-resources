@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "custom/ui/rank/admin.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        "ꀀ"
+      ]
+    }
+  ]
+}

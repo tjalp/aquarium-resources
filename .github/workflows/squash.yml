@@ -1,0 +1,15 @@
+name: Squash Resource Pack
+on: [push]
+jobs:
+  packsquash:
+    name: Squash Resource Pack
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # A non-shallow repository clone is required
+      - name: Squash
+        uses: ComunidadAylas/PackSquash-action@v3
+        with:
+          path: release
