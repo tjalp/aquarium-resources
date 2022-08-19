@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-      "layer0": "item/fire_horn"
+      "layer0": "custom/weapon/fire_horn"
   },
   "display": {
       "thirdperson_righthand": {

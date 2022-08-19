@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-      "layer0": "item/earth_horn"
+      "layer0": "custom/weapon/earth_horn"
   },
   "display": {
       "thirdperson_righthand": {
