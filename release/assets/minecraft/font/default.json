@@ -11,6 +11,15 @@
     },
     {
       "type": "bitmap",
+      "file": "custom/ui/rank/player.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        "ꐁ"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "custom/ui/streaming.png",
       "ascent": 7,
       "height": 7,
