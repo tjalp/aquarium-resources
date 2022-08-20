@@ -151,6 +151,12 @@
         "pull": 0.9
       },
       "model": "custom/weapon/icebow_pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "custom/weapon/boomerang"
     }
   ]
 }
